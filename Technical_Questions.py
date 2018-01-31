@@ -24,3 +24,42 @@ sentence_list = sentence.split()
 most = collections.Counter(sentence_list).most_common()[0] # Counter Returns Dict, but .most_common() returns a list you can index
 print(most) # Returns it as a tuple
 print(list(most))
+
+
+##############################
+# 1) Reshape a 1D array into 2D array with 1 column; Needed for sklearn inputs
+# 2) Split data into input features (X) and output variables (y)
+# 3) Split into train and test set (manually)
+##############################
+
+#%%
+# 1)
+import numpy as np
+a1 = np.array([1,2,3,4,5])
+a2 = np.transpose(a1)
+print(a1)
+print(a1.shape)
+print(a2.shape) # The Transpose of a 1D array is still a 1D array
+
+two_dimensional_array = a1.reshape(a1.shape[0],1)
+print(two_dimensional_array)
+print(two_dimensional_array.shape)
+
+#%%
+# 2)
+import pandas as pd
+df = pd.DataFrame({'col1':[1,2,3,4,5],'col2':[4,5,6,7,8],'col3':[7,8,9,10,11]})
+X = df.iloc[:,:-1]
+y = df.iloc[:,-1]
+print('Input: {}'.format(X))
+print('Output: {}'.format(y))
+
+#%%
+# 3)
+import pandas as pd
+df = pd.DataFrame({'col1':[1,2,3,4,5],'col2':[4,5,6,7,8],'col3':[7,8,9,10,11]})
+print(df.head())
+train = df.iloc[:3,]
+test = df.iloc[3:,]
+print(train)
+print(test)
