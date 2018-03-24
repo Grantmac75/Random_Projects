@@ -4,3 +4,5 @@
 
 Items it currently holds:
   1) Technical_Questions.py
+  2) LinearAlgebra_Statistics.py
+  3) MIT_GraphTheory.py
