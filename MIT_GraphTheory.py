@@ -12,8 +12,6 @@ class Node(object):
   def __str__(self):
     return self.name
 
-# one = Node('one')
-# print(one)
 
 # Edge Class
 
