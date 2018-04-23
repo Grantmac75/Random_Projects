@@ -6,3 +6,5 @@ Items it currently holds:
   1) Technical_Questions.py
   2) LinearAlgebra_Statistics.py
   3) MIT_GraphTheory.py
+  4) Searching_Sorting.ipynb
+  5) Autocorrelation_For_Stocks.ipynb
