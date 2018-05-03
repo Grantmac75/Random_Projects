@@ -8,3 +8,5 @@ Items it currently holds:
   3) MIT_GraphTheory.py
   4) Searching_Sorting.ipynb
   5) Autocorrelation_For_Stocks.ipynb
+  6) Credit Risk Logistic Regression Python
+  7) Decorator Tutorial
