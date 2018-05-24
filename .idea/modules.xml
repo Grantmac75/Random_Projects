@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../PyCharm_Projects/.idea/PyCharm_Projects.iml" filepath="$PROJECT_DIR$/../PyCharm_Projects/.idea/PyCharm_Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Random-Projects.iml" filepath="$PROJECT_DIR$/.idea/Random-Projects.iml" />
+      <module fileurl="file:///private/var/folders/hf/wm3cm_r52cl0pn5v255nmx_h0000gn/T/quandl.ipynb/.idea/quandl.ipynb.iml" filepath="/private/var/folders/hf/wm3cm_r52cl0pn5v255nmx_h0000gn/T/quandl.ipynb/.idea/quandl.ipynb.iml" />
     </modules>
   </component>
 </project>

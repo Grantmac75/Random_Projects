@@ -1,4 +1,4 @@
-class Employee:
+class Employee(object):
 
     num_of_emps = 0
     raise_amt = 1.03
@@ -6,7 +6,6 @@ class Employee:
     def __init__(self, first, last, pay):
         self.first = first
         self.last = last
-        self.email = first + '.' + last + '@email.com'
         self.pay = pay
 
         Employee.num_of_emps += 1
@@ -37,6 +36,35 @@ class Employee:
             return False
         return True
 
+    # Special Methods
+    def __repr__(self):
+        return "Employee('{}', '{}', {})".format(self.first, self.last, self.pay)
+
+    def __str__(self):
+        return '{} - {}'.format(self.fullname(), self.email)
+
+    def __add__(self, other):
+        return self.pay + other.pay
+
+    def __len__(self):
+        return len(self.fullname())
+
+    # Property Decorators
+    @property
+    def email(self):
+        return '{}.{}@email.com'.format(self.first, self.last)
+
+    # @fullname.setter
+    # def fullname(self, name):
+    #     first, last = name.split(' ')
+    #     self.first = first
+    #     self.last = last
+
+    # @fullname.deleter
+    # def fullname(self):
+    #     print('Delete Name!')
+    #     self.first = None
+    #     self.last = None
 
 class Developer(Employee):
     raise_amt = 1.10
@@ -70,6 +98,7 @@ class Manager(Employee):
         return
 
 # Prints for Class/Static Methods Tutorial
+
 # emp1 = Employee('Test', 'Employee', 85000)
 # print(emp1.email)
 # print(emp1.pay)
@@ -85,17 +114,17 @@ class Manager(Employee):
 
 
 # Prints for Class Inheritance Tutorial
-# print(help(Developer)) prints method resolution order
 
-dev1 = Developer('Some','Guy', 50000, 'Python')
-dev2 = Developer('Another', 'Girl', 55000, 'Java')
+# print(help(Developer)) prints method resolution order
+# dev1 = Developer('Some','Guy', 50000, 'Python')
+# dev2 = Developer('Another', 'Girl', 55000, 'Java')
 # print(dev1.pay)
 # dev1.apply_raise()
 # print(dev1.pay)
 # print(dev1.email)
 # print(dev1.prog_lang)
 #
-mgr_1 = Manager('Sue', 'Smith', 90000, [dev1])
+# mgr_1 = Manager('Sue', 'Smith', 90000, [dev1])
 # print(mgr_1.email)
 # mgr_1.add_emp(dev2)
 # mgr_1.print_emps()
@@ -104,6 +133,26 @@ mgr_1 = Manager('Sue', 'Smith', 90000, [dev1])
 # mgr_1.remove_emp(dev1)
 # mgr_1.print_emps()
 
-print(isinstance(mgr_1, Manager)) # Prints True
-print(issubclass(Manager, Employee)) # Prints True
-print(issubclass(Manager, Developer)) # Prints False
+# print(isinstance(mgr_1, Manager)) # Prints True
+# print(issubclass(Manager, Employee)) # Prints True
+# print(issubclass(Manager, Developer)) # Prints False
+
+
+#Special Methods
+
+# emp1 = Employee('Test', 'Employee', 85000)
+# emp2 = Employee('Kevin', 'Kurek', 150000)
+# print(emp1)
+# print(repr(emp1))
+# print(emp1 + emp2)
+# print(len(emp1))
+
+
+# Property Decorators/Setters
+
+# This allows you to treat the returns of a method like it's an attribute
+# rather than have to change the code and call every email like a method.
+emp1 = Employee('Test', 'Employee', 85000)
+print(emp1.email)
+# emp1.fullname = 'Kevin Kurek'
+# print(emp1.first)
