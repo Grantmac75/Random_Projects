@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8562a2d4-283a-4596-83d7-ed942f14f0fb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Random-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Random-Projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schafer_OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Schafer_OOP.py" afterDir="false" />
-    </list>
+    <list default="true" id="8562a2d4-283a-4596-83d7-ed942f14f0fb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +39,8 @@
       <file leaf-file-name="Schafer_OOP.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Schafer_OOP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2355">
-              <caret line="157" column="19" lean-forward="true" selection-start-line="157" selection-start-column="19" selection-end-line="157" selection-end-column="19" />
+            <state relative-caret-position="254">
+              <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -305,9 +300,9 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32972974" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.5108108" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22051282" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2871795" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.051775146" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22051282" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2871795" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21005917" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
@@ -589,8 +584,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Schafer_OOP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2355">
-          <caret line="157" column="19" lean-forward="true" selection-start-line="157" selection-start-column="19" selection-end-line="157" selection-end-column="19" />
+        <state relative-caret-position="254">
+          <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
         </state>
       </provider>
     </entry>
