@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8562a2d4-283a-4596-83d7-ed942f14f0fb" name="Default" comment="" />
+    <list default="true" id="8562a2d4-283a-4596-83d7-ed942f14f0fb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../PyCharm_Projects/toss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Random-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Random-Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schafer_OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Schafer_OOP.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +19,23 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Random_Projects$BeyondBasics_Decorators.coverage" NAME="BeyondBasics_Decorators Coverage Results" MODIFIED="1526596825950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyCharm_Projects" />
     <SUITE FILE_PATH="coverage/Random_Projects$PluralSight.coverage" NAME="PluralSight Coverage Results" MODIFIED="1526016908848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Random_Projects$fibonacci_last_digit.coverage" NAME="fibonacci_last_digit Coverage Results" MODIFIED="1527207293424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2" />
     <SUITE FILE_PATH="coverage/Random_Projects$PluralSight__1_.coverage" NAME="PluralSight (1) Coverage Results" MODIFIED="1526108196269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyCharm_Projects" />
     <SUITE FILE_PATH="coverage/Random_Projects$APlusB.coverage" NAME="APlusB Coverage Results" MODIFIED="1527054905479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/nQcH9VL8Eeiz7w5Kj1KxAg_9d62954052fc11e887ffcd0999bd14ae_toolbox1805082305/week1_programming_challenges/1_sum_of_two_digits" />
+    <SUITE FILE_PATH="coverage/Random_Projects$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1527202114468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/UCSD_Data_Algos/week2_algorithmic_warmup/1_fibonacci_number" />
     <SUITE FILE_PATH="coverage/Random_Projects$main.coverage" NAME="main Coverage Results" MODIFIED="1526493704486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyCharm_Projects" />
     <SUITE FILE_PATH="coverage/Random_Projects$Technical_Questions.coverage" NAME="Technical_Questions Coverage Results" MODIFIED="1526495280289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Random_Projects$lcm.coverage" NAME="lcm Coverage Results" MODIFIED="1527280390194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2" />
+    <SUITE FILE_PATH="coverage/Random_Projects$fibonacci__1_.coverage" NAME="fibonacci (1) Coverage Results" MODIFIED="1527203824124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2" />
     <SUITE FILE_PATH="coverage/Random_Projects$max_pairwise_product.coverage" NAME="max_pairwise_product Coverage Results" MODIFIED="1527058862688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/UCSD_Data_Algos/week1_programming_challenges/2_maximum_pairwise_product" />
     <SUITE FILE_PATH="coverage/Random_Projects$Schafer_main.coverage" NAME="Schafer_main Coverage Results" MODIFIED="1526497960470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Random_Projects$toss.coverage" NAME="toss Coverage Results" MODIFIED="1528693068232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyCharm_Projects" />
+    <SUITE FILE_PATH="coverage/Random_Projects$gcd.coverage" NAME="gcd Coverage Results" MODIFIED="1527278448040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2" />
     <SUITE FILE_PATH="coverage/Random_Projects$BeyondBasics_Closures.coverage" NAME="BeyondBasics_Closures Coverage Results" MODIFIED="1526593484748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyCharm_Projects" />
     <SUITE FILE_PATH="coverage/Random_Projects$Schafer_second_module.coverage" NAME="Schafer_second_module Coverage Results" MODIFIED="1526716972073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Random_Projects$AdvancedPython_WhileElse.coverage" NAME="AdvancedPython_WhileElse Coverage Results" MODIFIED="1526593288994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyCharm_Projects" />
     <SUITE FILE_PATH="coverage/Random_Projects$Schafer_ClassStaticMethods.coverage" NAME="Schafer_ClassStaticMethods Coverage Results" MODIFIED="1526753485468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Random_Projects$Schafer_OOP.coverage" NAME="Schafer_OOP Coverage Results" MODIFIED="1527145748920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Random_Projects$Schafer_OOP.coverage" NAME="Schafer_OOP Coverage Results" MODIFIED="1527487282160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Random_Projects$Schafer_first_module.coverage" NAME="Schafer_first_module Coverage Results" MODIFIED="1526498302537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -36,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Schafer_OOP.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Schafer_OOP.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Schafer_OOP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+            <state relative-caret-position="2565">
+              <caret line="171" selection-start-line="171" selection-end-line="171" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeyondBasics_Closures.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/BeyondBasics_Closures.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
@@ -48,17 +70,43 @@
       <file leaf-file-name="BeyondBasics_Decorators.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/BeyondBasics_Decorators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toss.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/toss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HW6_PCA_to_NeuralNetwork.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Statistical_Learning_760/HW6_PCA_to_NeuralNetwork.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="27" selection-end-column="31" />
+              <folding>
+                <element signature="e#428#447#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HW3_PCA_GaussianProcesses.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Statistical_Learning_760/HW3_PCA_GaussianProcesses.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="AdvancedPython_WhileElse.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/AdvancedPython_WhileElse.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -76,9 +124,12 @@
     <findStrings>
       <find>some_list</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PyCharm_Projects" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,7 +148,13 @@
         <option value="$PROJECT_DIR$/Schafer_second_module.py" />
         <option value="$PROJECT_DIR$/Schafer_ClassStaticMethods.py" />
         <option value="$USER_HOME$/Desktop/UCSD_Data_Algos/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.py" />
+        <option value="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2/fibonacci_last_digit.py" />
+        <option value="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2/gcd.py" />
+        <option value="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2/lcm.py" />
         <option value="$PROJECT_DIR$/Schafer_OOP.py" />
+        <option value="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2/fibonacci.py" />
+        <option value="$PROJECT_DIR$/../Statistical_Learning_760/TensorFlow_Tutorial.py" />
+        <option value="$PROJECT_DIR$/../PyCharm_Projects/toss.py" />
       </list>
     </option>
   </component>
@@ -110,10 +167,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="574" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="44" />
     <option name="y" value="23" />
-    <option name="width" value="1394" />
+    <option name="width" value="1396" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -124,14 +181,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="Random-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Random-Projects" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="Random-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyCharm_Projects" type="462c0819:PsiDirectoryNode" />
@@ -140,6 +192,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,45 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Schafer_OOP">
-    <configuration name="APlusB" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Random-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/nQcH9VL8Eeiz7w5Kj1KxAg_9d62954052fc11e887ffcd0999bd14ae_toolbox1805082305/week1_programming_challenges/1_sum_of_two_digits" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/nQcH9VL8Eeiz7w5Kj1KxAg_9d62954052fc11e887ffcd0999bd14ae_toolbox1805082305/week1_programming_challenges/1_sum_of_two_digits/APlusB.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Schafer_ClassStaticMethods" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Random-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Schafer_ClassStaticMethods.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.toss">
     <configuration name="Schafer_OOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Random-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,58 +231,96 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Schafer_second_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Random-Projects" />
+    <configuration name="TensorFlow_Tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Desktop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Statistical_Learning_760" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Statistical_Learning_760/TensorFlow_Tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="gcd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Desktop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Schafer_second_module.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2/gcd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="max_pairwise_product" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Random-Projects" />
+    <configuration name="lcm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Desktop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/UCSD_Data_Algos/week1_programming_challenges/2_maximum_pairwise_product" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/UCSD_Data_Algos/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2/lcm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="toss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharm_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyCharm_Projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyCharm_Projects/toss.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Schafer_second_module" />
-      <item itemvalue="Python.Schafer_ClassStaticMethods" />
-      <item itemvalue="Python.APlusB" />
-      <item itemvalue="Python.max_pairwise_product" />
+      <item itemvalue="Python.gcd" />
+      <item itemvalue="Python.lcm" />
       <item itemvalue="Python.Schafer_OOP" />
+      <item itemvalue="Python.TensorFlow_Tutorial" />
+      <item itemvalue="Python.toss" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.toss" />
+        <item itemvalue="Python.TensorFlow_Tutorial" />
         <item itemvalue="Python.Schafer_OOP" />
-        <item itemvalue="Python.max_pairwise_product" />
-        <item itemvalue="Python.APlusB" />
-        <item itemvalue="Python.Schafer_ClassStaticMethods" />
-        <item itemvalue="Python.Schafer_second_module" />
+        <item itemvalue="Python.lcm" />
+        <item itemvalue="Python.gcd" />
       </list>
     </recent_temporary>
   </component>
@@ -292,24 +345,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="23" width="1394" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="44" y="23" width="1396" height="877" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="299" height="677" id="Documentation" order="7" side_tool="true" visible="true" weight="0.09305761" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32972974" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.5108108" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22051282" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2871795" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21005917" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32948717" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.30384615" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26794872" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2871795" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20384048" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.32948717" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -320,6 +372,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32948717" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,63 +405,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/BeyondBasics_Closures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/BeyondBasics_Decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/AdvancedPython_WhileElse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schafer_ClassStaticMethods.py" />
-    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/PS1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/BeyondBasics_Closures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/AdvancedPython_WhileElse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/BeyondBasics_Decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/PS1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1305">
@@ -524,28 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/AdvancedPython_WhileElse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/BeyondBasics_Decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Schafer_ClassStaticMethods.py" />
-    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/PS1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -560,10 +535,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/nQcH9VL8Eeiz7w5Kj1KxAg_9d62954052fc11e887ffcd0999bd14ae_toolbox1805082305/week1_programming_challenges/1_sum_of_two_digits/APlusB.py" />
+    <entry file="file://$USER_HOME$/Desktop/UCSD_Data_Algos/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.py" />
+    <entry file="file://$USER_HOME$/Desktop/UCSD_Data_Algos/week2_algorithmic_warmup/1_fibonacci_number/fibonacci.py" />
+    <entry file="file://$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2/fibonacci_last_digit.py" />
+    <entry file="file://$PROJECT_DIR$/../Statistical_Learning_760/HW3_PCA_GaussianProcesses.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Statistical_Learning_760/HW6_PCA_to_NeuralNetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="e#428#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2/gcd.py" />
+    <entry file="file://$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2/lcm.py" />
+    <entry file="file://$PROJECT_DIR$/../Statistical_Learning_760/TensorFlow_Tutorial.py" />
+    <entry file="file://$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2/fibonacci.py" />
+    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/AdvancedPython_WhileElse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Schafer_second_module.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/PS1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schafer_OOP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
         </state>
       </provider>
     </entry>
@@ -574,18 +591,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/nQcH9VL8Eeiz7w5Kj1KxAg_9d62954052fc11e887ffcd0999bd14ae_toolbox1805082305/week1_programming_challenges/1_sum_of_two_digits/APlusB.py" />
-    <entry file="file://$USER_HOME$/Desktop/UCSD_Data_Algos/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.py">
+    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/BeyondBasics_Decorators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Schafer_OOP.py">
+    <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/toss.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+        <state relative-caret-position="75">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>

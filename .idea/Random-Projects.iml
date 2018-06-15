@@ -8,6 +8,7 @@
     <orderEntry type="library" name="R User Library" level="project" />
     <orderEntry type="module" module-name="PyCharm_Projects" />
     <orderEntry type="module" module-name="quandl.ipynb" />
+    <orderEntry type="module" module-name="Desktop" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

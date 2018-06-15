@@ -10,6 +10,7 @@ class Employee(object):
 
         Employee.num_of_emps += 1
 
+    @property
     def fullname(self):
         return '{} {}'.format(self.first, self.last)
 
@@ -54,17 +55,18 @@ class Employee(object):
     def email(self):
         return '{}.{}@email.com'.format(self.first, self.last)
 
-    # @fullname.setter
-    # def fullname(self, name):
-    #     first, last = name.split(' ')
-    #     self.first = first
-    #     self.last = last
 
-    # @fullname.deleter
-    # def fullname(self):
-    #     print('Delete Name!')
-    #     self.first = None
-    #     self.last = None
+    @fullname.setter
+    def fullname(self, name):
+        first, last = name.split(' ')
+        self.first = first
+        self.last = last
+
+    @fullname.deleter
+    def fullname(self):
+        print('Delete Name!')
+        self.first = None
+        self.last = None
 
 class Developer(Employee):
     raise_amt = 1.10
@@ -154,5 +156,20 @@ class Manager(Employee):
 # rather than have to change the code and call every email like a method.
 emp1 = Employee('Test', 'Employee', 85000)
 print(emp1.email)
-# emp1.fullname = 'Kevin Kurek'
-# print(emp1.first)
+
+name_string = 'Kevin-Kurek-95000'
+emp2 = Employee.from_string(name_string)
+
+# This can be called like an attribute rather than method because of @property decorator
+print(emp2.email)
+print(emp2.pay)
+
+# The @fullname.setter overrides the instance of John Smith with Kevin Thomas
+emp3 = Employee('John', 'Smith', 93000)
+emp3.fullname = 'Kevin Thomas'
+print(emp3.email)
+print(Employee.num_of_emps)
+
+# Deletes name of emp3 from @fullname.deleter decorator
+del emp3.fullname
+print(emp3.fullname)
