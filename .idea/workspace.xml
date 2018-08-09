@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8562a2d4-283a-4596-83d7-ed942f14f0fb" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/../PyCharm_Projects/toss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Random-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Random-Projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schafer_OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Schafer_OOP.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +25,7 @@
     <SUITE FILE_PATH="coverage/Random_Projects$fibonacci__1_.coverage" NAME="fibonacci (1) Coverage Results" MODIFIED="1527203824124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2" />
     <SUITE FILE_PATH="coverage/Random_Projects$max_pairwise_product.coverage" NAME="max_pairwise_product Coverage Results" MODIFIED="1527058862688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/UCSD_Data_Algos/week1_programming_challenges/2_maximum_pairwise_product" />
     <SUITE FILE_PATH="coverage/Random_Projects$Schafer_main.coverage" NAME="Schafer_main Coverage Results" MODIFIED="1526497960470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Random_Projects$toss.coverage" NAME="toss Coverage Results" MODIFIED="1528693068232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyCharm_Projects" />
+    <SUITE FILE_PATH="coverage/Random_Projects$toss.coverage" NAME="toss Coverage Results" MODIFIED="1529885455750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyCharm_Projects" />
     <SUITE FILE_PATH="coverage/Random_Projects$gcd.coverage" NAME="gcd Coverage Results" MODIFIED="1527278448040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/UCSD_Data_Algos/MyProjects/week2" />
     <SUITE FILE_PATH="coverage/Random_Projects$BeyondBasics_Closures.coverage" NAME="BeyondBasics_Closures Coverage Results" MODIFIED="1526593484748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyCharm_Projects" />
     <SUITE FILE_PATH="coverage/Random_Projects$Schafer_second_module.coverage" NAME="Schafer_second_module Coverage Results" MODIFIED="1526716972073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -71,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/BeyondBasics_Decorators.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -79,8 +75,8 @@
       <file leaf-file-name="toss.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/toss.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="195">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -186,7 +182,7 @@
           <expand>
             <path>
               <item name="Random-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCharm_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Random-Projects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -346,16 +342,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1396" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="right" x="0" y="0" width="299" height="677" id="Documentation" order="7" side_tool="true" visible="true" weight="0.09305761" />
+      <window_info anchor="right" x="0" y="0" width="299" height="677" id="Documentation" order="7" side_tool="true" visible="true" weight="0.1491876" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32948717" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.30384615" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26794872" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26794872" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.2871795" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20384048" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21270311" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
@@ -513,13 +510,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Schafer_main.py" />
-    <entry file="file://$PROJECT_DIR$/Searching_Sorting.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Searching_Sorting.ipynb" />
     <entry file="file://$PROJECT_DIR$/Schafer_ClassStaticMethods.py" />
     <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/main.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -594,14 +585,14 @@
     <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/BeyondBasics_Decorators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../PyCharm_Projects/toss.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="195">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>

@@ -55,7 +55,6 @@ class Employee(object):
     def email(self):
         return '{}.{}@email.com'.format(self.first, self.last)
 
-
     @fullname.setter
     def fullname(self, name):
         first, last = name.split(' ')
@@ -166,7 +165,9 @@ print(emp2.pay)
 
 # The @fullname.setter overrides the instance of John Smith with Kevin Thomas
 emp3 = Employee('John', 'Smith', 93000)
-emp3.fullname = 'Kevin Thomas'
+emp3.fullname = 'Kevin Thomas'  # @fullname.setter is "Setter"
+print(emp3.fullname)            # @property fullname is "getter" version in Python
+print(emp3.pay)
 print(emp3.email)
 print(Employee.num_of_emps)
 
