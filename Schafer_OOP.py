@@ -42,7 +42,7 @@ class Employee(object):
         return "Employee('{}', '{}', {})".format(self.first, self.last, self.pay)
 
     def __str__(self):
-        return '{} - {}'.format(self.fullname(), self.email)
+        return '{} - {}'.format(self.fullname, self.email)
 
     def __add__(self, other):
         return self.pay + other.pay
